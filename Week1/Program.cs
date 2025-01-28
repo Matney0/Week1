@@ -10,7 +10,9 @@ namespace Week1
     {
         static void Main(string[] args)
         {
-
+            //Reads and prints out a greeting 
+            Console.WriteLine("Welcome to ITSE1302!");
+            Console.ReadLine();
         }
     }
 }
